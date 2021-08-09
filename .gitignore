@@ -1,0 +1,4 @@
+# Project exclude paths
+/concurrent/target/
+/deadlock/target/
+/TaskFramework/target/
